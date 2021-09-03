@@ -1,0 +1,69 @@
+body {
+background: radial-gradient(#fff, #ffd6d6);
+}
+.T-shirt {
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+}
+.T-shirtt {
+    height: 270px;
+}
+.Jeans{
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 305px;
+    top: 0px;
+}
+.Jeanss {
+    height: 270px;
+    
+}
+h3 {
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.Shoe {
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 610px;
+    top: 5px;
+}
+.Shoee {
+    height: 270px;
+}
+.Watch {
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 915px;
+    top: 5px;
+}
+.watchh {
+    height: 270px;
+}
+
+.Hat {
+    background-color: transparent;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 1220px;
+    top: 5px;
+}
+.hatt {
+    height: 250px;
+}
+h4 {
+    position: absolute;
+    top: 315px;
+    color: orangered;
+}

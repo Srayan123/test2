@@ -1,0 +1,28 @@
+body {
+    background: radial-gradient(#fff, #ffd6d6);
+}
+.home {
+    width: 40px;
+    position: absolute;
+    left: 1470px;
+}
+table {
+    width: 1500px;
+    border-spacing: 0px;
+    position: absolute;
+    top: 60px;
+    padding: 10px;
+    
+}
+table, th, td{
+    border: 5px solid #004179;
+    border-collapse: collapse;
+    padding: 10px;
+}
+td {
+    font-size: 30px;
+    text-align: center;
+}
+th {
+    font-size: 30px;
+}

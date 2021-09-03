@@ -1,0 +1,17 @@
+body {
+    background: radial-gradient(#fff, #ffd6d6);
+}
+h1 {
+    text-align: center;
+    color: tomato;
+}
+h2 {
+    text-align: center;
+    color: black;
+}
+img {
+    position: absolute;
+    left: 1470px;
+    top: 5px;
+    width: 40px;
+}

@@ -1,0 +1,28 @@
+body {
+    background: radial-gradient(#fff, #ffd6d6);
+}
+.menn {
+    width: 440px;
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.men {
+    width: 440px;
+    color: black;
+}
+.ladies {
+    width: 440px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+.ladiess {
+    width: 440px;
+}
+h3 {
+    text-align: center;
+}
